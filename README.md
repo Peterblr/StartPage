@@ -1,6 +1,6 @@
 # startPage
 
-![alt text](https://github.com/Peterblr/weatherapp/blob/master/src/assets/Weather_1.png)
+![alt text](https://github.com/Peterblr/StartPage/blob/master/Images/Untitled.png)
 
 ### Customize configuration
 See [Start Page](https://peterblr.github.io/StartPage/).
